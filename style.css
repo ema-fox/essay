@@ -1,0 +1,17 @@
+.text {
+    margin: 2em;
+    max-width: 35em;
+    text-indent: 1em;
+}
+
+.footer {
+    color: #444;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
